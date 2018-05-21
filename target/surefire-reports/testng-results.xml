@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="20708" started-at="2018-04-25T21:35:07Z" finished-at="2018-04-25T21:35:28Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="20708" started-at="2018-04-25T21:35:07Z" finished-at="2018-04-25T21:35:28Z">
+      <class name="testproject.testcases.TestFlightSearch">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testproject.testcases.TestFlightSearch@5c27ae9a]" name="openBrowser" is-config="true" duration-ms="2402" started-at="2018-04-25T22:35:07Z" finished-at="2018-04-25T22:35:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="searchFilghts()[pri:0, instance:testproject.testcases.TestFlightSearch@5c27ae9a]" name="searchFilghts" duration-ms="18285" started-at="2018-04-25T22:35:10Z" finished-at="2018-04-25T22:35:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchFilghts -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testproject.testcases.TestFlightSearch@5c27ae9a]" name="closeBrowser" is-config="true" duration-ms="8" started-at="2018-04-25T22:35:28Z" finished-at="2018-04-25T22:35:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testproject.testcases.TestFlightSearch -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

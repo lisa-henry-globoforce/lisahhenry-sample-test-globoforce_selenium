@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite" duration-ms="5372" started-at="2018-04-25T22:02:46Z" finished-at="2018-04-25T22:02:51Z">
+    <groups>
+    </groups>
+    <test name="TestFlightSearch" duration-ms="5372" started-at="2018-04-25T22:02:46Z" finished-at="2018-04-25T22:02:51Z">
+      <class name="testproject.testcases.TestFlightSearch">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testproject.testcases.TestFlightSearch@6ef1dd49]" name="openBrowser" is-config="true" duration-ms="5049" started-at="2018-04-25T22:02:46Z" finished-at="2018-04-25T22:02:51Z">
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testproject.testcases.TestFlightSearch@6ef1dd49]" name="closeBrowser" is-config="true" duration-ms="314" started-at="2018-04-25T22:02:51Z" finished-at="2018-04-25T22:02:51Z">
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testproject.testcases.TestFlightSearch -->
+    </test> <!-- TestFlightSearch -->
+  </suite> <!-- TestSuite -->
+</testng-results>

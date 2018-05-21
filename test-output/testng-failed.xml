@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestSuite]">
+  <test name="TestVerifyLogin(failed)" preserve-order="true">
+    <classes>
+      <class name="testproject.testcases.TestVerifyLogin">
+        <methods>
+          <include name="login"/>
+          <include name="openBrowser"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testproject.testcases.TestVerifyLogin -->
+    </classes>
+  </test> <!-- TestVerifyLogin(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->
